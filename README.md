@@ -14,7 +14,7 @@ This website uses:
 
 ## Setup
 
-First, clone this project onto a new folder (make sure you have Git installed) and move to it. Once in the project's folder, create a virtual environment, called "venv".
+First, clone this project onto a new folder (make sure Git is installed) and move to it. Once in the project's folder, create a virtual environment, called "venv".
 ```
 $ git clone https://github.com/salatinee/blog.git
 $ cd blog
