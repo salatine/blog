@@ -11,3 +11,5 @@ This website uses:
 - MySQL (both python module and database)
 - HTML and CSS
 - Bootstrap
+
+isso 'e um PR
