@@ -46,6 +46,6 @@ It should output something like: <br>
 `Starting development at localhost:8080`<br>
 `Quit the server with CTRL-BREAK.`
 
-Now, to create posts, we need to access Django's admin page. To do that, just access the link provided and add '/admin' after it. And fill in the superuser values you previously entered. Afterwards, you can click on Posts and start making posts for the news' blog:
+Now, to create posts, we need to access Django's Admin page. To do that, just access the link provided and add '/admin' after it. And fill in the superuser values you previously entered. Afterwards, you can click on Posts and start making posts for the news' blog:
 
 ![image](https://user-images.githubusercontent.com/95940523/155452480-69330273-f5ee-46d1-8c9e-759e70336b7b.png)
