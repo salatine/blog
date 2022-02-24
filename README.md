@@ -6,7 +6,7 @@
 A simple news' blog website written in Portuguese, where you can make new posts (and comment on them) from Django Admin section.
 This website uses:
 - Django
-- django-summernote
+- Django Summernote
 - Pillow
 - MySQL (both python module and database)
 - HTML and CSS
