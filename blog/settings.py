@@ -137,7 +137,7 @@ INSTALLED_APPS += ('django_summernote',)
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
 if 'DYNO' in os.environ:
-    ALLOWED_HOSTS = ['https://blognoticias.herokuapp.com/']
+    ALLOWED_HOSTS = ['blognoticias.herokuapp.com']
     DEBUG = True
     SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
     SECURE_SSL_REDIRECT = True
