@@ -144,7 +144,7 @@ X_FRAME_OPTIONS = 'SAMEORIGIN'
 
 if 'DYNO' in os.environ:
     ALLOWED_HOSTS = ['blognoticias.herokuapp.com']
-    DEBUG = True
+    DEBUG = False
     SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
     SECURE_SSL_REDIRECT = True
     SESSION_COOKIE_SECURE = True
